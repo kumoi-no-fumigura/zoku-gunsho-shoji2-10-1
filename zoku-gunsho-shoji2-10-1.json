@@ -649,6 +649,10 @@
    "dai": "特"
   }
  ],
+ "translation": {
+  "count": 10,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-shoji2-10-1",
   "work": "正治二年十月一日歌合",
@@ -661,7 +665,7 @@
   "blocks": 10,
   "chars": 2328,
   "poems": 36,
-  "yaku": 0,
+  "yaku": 10,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T05:05:47+09:00"
